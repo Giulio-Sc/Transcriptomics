@@ -7,4 +7,4 @@ In this project I performed an analysis on three different tissue samples each f
 
 Single Cell RNA Analysis:
 
-Starting from a dataset downloaded from PanglaoDB, I analysed the gene expression of the sample's cells to cluster them together according to their gene expression and indentifing gene markers to assign each cluster a cell type
+Starting from a dataset downloaded from PanglaoDB, I analysed the gene expression of the sample's cells to cluster them together according to their gene expression profile, indentify gene markers and eventually use them to assign each cluster a specific cell type
